@@ -89,3 +89,6 @@ Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan 
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
+
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/KingRacing/Man-Userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+The second easiest way to host this bot, Deploy on Okteto Cloud
